@@ -1,0 +1,15 @@
+<html>
+    <h1>
+        Moinsen, Ich bins!
+    </h1>
+    <body>
+        <h2>About me</h2>
+        <p>
+            Ich versuche mich hier nur aus.
+        </p>
+        <h2>An was ich aktuell arbeite?</h2>
+        <p>
+            Ich versuche mir den Scheiß hier beizubringen.
+        </p>
+    </body>
+</html>
